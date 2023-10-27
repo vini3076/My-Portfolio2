@@ -9,10 +9,10 @@ export default function AppNavbar() {
         <Container>
           <Navbar.Brand>Vinita Navani</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="/home">About</Nav.Link>
-            <Nav.Link href="/projects">Projects</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
-            <Nav.Link href="/resume">Resume</Nav.Link>
+            <Nav.Link href="/#/">About</Nav.Link>
+            <Nav.Link href="/#/projects">Projects</Nav.Link>
+            <Nav.Link href="/#/contact">Contact</Nav.Link>
+            <Nav.Link href="/#/resume">Resume</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

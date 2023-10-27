@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio2",
   "version": "0.1.0",
-  "homepage": "https://vini30.github.io/my-portfolio2/#",
+  "homepage": "https://vini30.github.io/my-portfolio2/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

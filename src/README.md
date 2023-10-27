@@ -10,4 +10,4 @@ This is ny new developer portfolio built in React. It is a single page applicati
 - Bootstrap
 
 ## Deployed Site
-()
+[Deployed link](https://github.com/vini3076/my-portfolio2)
